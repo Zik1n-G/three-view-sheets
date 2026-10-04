@@ -1,0 +1,19 @@
+{
+  "filename": "角色三视图_静态资产包.zip",
+  "size": 70438720,
+  "sha256": "87fee8cee80401b5c55154915ddb65d6ed5e818bfaaa8f700e264a27b6c1a908",
+  "part_size": 8000000,
+  "parts": [
+    "角色三视图_静态资产包.zip.part01",
+    "角色三视图_静态资产包.zip.part02",
+    "角色三视图_静态资产包.zip.part03",
+    "角色三视图_静态资产包.zip.part04",
+    "角色三视图_静态资产包.zip.part05",
+    "角色三视图_静态资产包.zip.part06",
+    "角色三视图_静态资产包.zip.part07",
+    "角色三视图_静态资产包.zip.part08",
+    "角色三视图_静态资产包.zip.part09"
+  ],
+  "reassemble_unix": "cat 角色三视图_静态资产包.zip.part* > 角色三视图_静态资产包.zip",
+  "verify_unix": "sha256sum -c 角色三视图_静态资产包.zip.sha256"
+}
